@@ -250,6 +250,7 @@ I will mostly include resources that are tailored as much as possible to the rol
 
 #### Fingerprinting
  - [Censys](https://search.censys.io/)
+ - [ShieldLabs Anonymity Checker](https://demo.shieldlabs.ai/anonymity-checker) - Current-browser device identifiers, risk scoring, and VPN, proxy, Tor and bot signals for testing visitor-risk detections.
  - [Shodan](https://www.shodan.io/)
  - [ZoomEye](https://www.zoomeye.ai/)
  - [Onyphe](https://search.onyphe.io/)
